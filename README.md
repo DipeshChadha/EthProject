@@ -5,7 +5,7 @@ A simple Solidity smart contract for creating and managing a custom ERC20-like t
 The MyToken contract allows you to create a token with a specific name, abbreviation, and total supply. Users can mint new tokens to increase the total supply and burn tokens to reduce the total supply. The contract includes safety checks to ensure that only valid operations are executed.
 
 ## Getting Started
-#### Installing
+### Installing
 1. Clone the Repository:
 ```
 git clone https://github.com/DipeshChadha/EthProject.git
@@ -64,5 +64,5 @@ myToken.balances("0xYourAddressHere");
 
 ## Authors
 Dipesh Chadha
-GitHub: @DipeshChadha
-Email: chadhadipesh@gmail.com
+* GitHub: @DipeshChadha
+* Email: chadhadipesh@gmail.com
